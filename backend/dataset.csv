@@ -1,0 +1,16 @@
+userEmail,category,amount,timestamp
+user1@test.com,Food,500,1715424000
+user1@test.com,Shopping,1500,1715427600
+user1@test.com,Food,200,1715510400
+user1@test.com,Bills,3000,1715596800
+user1@test.com,Transport,150,1715683200
+user1@test.com,Food,450,1715769600
+user1@test.com,Shopping,2000,1715856000
+user2@test.com,Food,300,1715424000
+user2@test.com,Health,1200,1715510400
+user2@test.com,Bills,2500,1715596800
+user1@test.com,Food,600,1715942400
+user1@test.com,Transport,200,1716028800
+user1@test.com,Bills,3100,1716115200
+user1@test.com,Shopping,1800,1716201600
+user1@test.com,Food,550,1716288000
